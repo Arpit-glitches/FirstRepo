@@ -1,3 +1,3 @@
 # FirstRepo
 This is my first repository<br>
-Auhtor- Arpit Agarwal
+Auhtor- Arpit Agarwal @bennett
